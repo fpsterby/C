@@ -1,3 +1,8 @@
 /.vscode
 /funny
 /test.c
+
+*
+!*/
+!*.*
+.vscode/settings.json
